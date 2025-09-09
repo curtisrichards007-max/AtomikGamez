@@ -3,7 +3,7 @@
 # Terms of Service for [Your Bot Name] Bot
 
 ## Acceptance of Terms
-By using the [Your Bot Name] Bot ("the Bot") on Discord, you agree to these Terms of Service ("Terms"). If you do not agree, please do not use the Bot.
+By using the "ShiretoMordrdorBot" Bot ("the Bot") on Discord, you agree to these Terms of Service ("Terms"). If you do not agree, please do not use the Bot.
 
 ## Description of Service
 The Bot is a community tool that tracks walking distances submitted by users, inspired by the journey to Mordor from *The Lord of the Rings*. It provides progress updates, leaderboards, and a visual map based on user-submitted data.
@@ -23,5 +23,5 @@ The Bot is provided "as is" without warranties. The developer is not liable for 
 These Terms may be updated periodically. Continued use of the Bot after changes constitutes acceptance.
 
 ## Contact
-For questions, contact [your email or Discord handle, e.g., @YourUsername#1234].
+For questions, contact @AtomikGamez on Discord.
 

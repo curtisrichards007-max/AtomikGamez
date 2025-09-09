@@ -3,7 +3,7 @@
 # Privacy Policy for [Your Bot Name] Bot
 
 ## Data Collection
-The [Your Bot Name] Bot collects the following data to function:
+The "ShiretoMordrdorBot" Bot collects the following data to function:
 - **Discord User ID**: Used to identify you and track your walking progress.
 - **Walking Distance**: Submitted by you via commands (e.g., `/addwalk`), stored as a total in miles.
 
@@ -26,5 +26,5 @@ The [Your Bot Name] Bot collects the following data to function:
 This policy may be updated as needed. Check back for the latest version.
 
 ## Contact
-For privacy concerns, reach out to [your email or Discord handle, e.g., @YourUsername#1234].
+For privacy concerns, reach out to [@atomikgamez on Discord].
 
