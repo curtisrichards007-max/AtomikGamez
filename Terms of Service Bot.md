@@ -1,6 +1,6 @@
 
 
-# Terms of Service for [Your Bot Name] Bot
+# Terms of Service for "ShiretoMordrdorBot" Bot
 
 ## Acceptance of Terms
 By using the "ShiretoMordrdorBot" Bot ("the Bot") on Discord, you agree to these Terms of Service ("Terms"). If you do not agree, please do not use the Bot.
