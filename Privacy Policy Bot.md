@@ -1,6 +1,6 @@
 
 
-# Privacy Policy for [Your Bot Name] Bot
+# Privacy Policy for "ShiretoMordrdorBot" Bot
 
 ## Data Collection
 The "ShiretoMordrdorBot" Bot collects the following data to function:
